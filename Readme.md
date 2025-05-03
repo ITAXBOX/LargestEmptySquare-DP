@@ -35,7 +35,7 @@ A **C program** that efficiently finds the largest possible empty square in a gr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/bsq.git
+    git clone https://github.com/ITAXBOX/LargestEmptySquare-DP.git
     cd bsq
     ```
 
