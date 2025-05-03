@@ -144,9 +144,9 @@ o....o
 **Output:**
 
 ```
-xo...o
-...o.o
-o....o
+.o...o
+.xxo.o
+oxx..o
 .oo...
 ...o.o
 ```
